@@ -19,7 +19,7 @@ import java.lang.ref.WeakReference;
 import java.util.List;
 
 /**
- * Created by liuzongyang on 16/5/26.
+ * Created by wraith on 16/5/26.
  */
 public class WraithCameraView extends GLCameraPhotoTextureView implements SurfaceTexture.OnFrameAvailableListener {
     public static final String TAG = WraithCameraView.class.getSimpleName();
